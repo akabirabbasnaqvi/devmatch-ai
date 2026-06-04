@@ -48,7 +48,7 @@ pip install -r requirements.txt
 **3. Download the dataset**
 
 Download `survey_results_public.csv` from:
-kaggle.com/datasets/berkayalan/stack-overflow-annual-developer-survey-2024
+https://survey.stackoverflow.co/2024/
 Place it in the project folder.
 
 **4. Run the data pipeline**
