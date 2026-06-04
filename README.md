@@ -66,6 +66,7 @@ streamlit run app.py
 ---
 
 ## 📁 Project Structure
+```text
 devmatch-ai/
 ├── app.py                    # Streamlit GUI
 ├── step1_explore.py          # Data exploration
@@ -74,7 +75,7 @@ devmatch-ai/
 ├── survey_results_schema.csv # Dataset schema
 ├── requirements.txt          # Dependencies
 └── README.md                 # Project documentation
-
+```
 
 ---
 
