@@ -7,7 +7,7 @@ skills and experience, trained on 65,437 real developers from the
 ---
 
 ## 📌 Features
-- Predicts your developer role (Full-Stack, Back-End, Front-End, Mobile & more)
+- Predicts your developer role (Full-Stack, Back-End & more)
 - Shows K nearest similar developers with similarity scores
 - Generates a personalized skill gap roadmap toward your target role
 - Clean and interactive Streamlit GUI
@@ -36,7 +36,7 @@ skills and experience, trained on 65,437 real developers from the
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/devmatch-ai.git
+git clone https://github.com/akabirabbasnaqvi/devmatch-ai.git
 cd devmatch-ai
 ```
 
@@ -48,8 +48,7 @@ pip install -r requirements.txt
 **3. Download the dataset**
 
 Download `survey_results_public.csv` from:
-https://survey.stackoverflow.co/2024/
-
+kaggle.com/datasets/berkayalan/stack-overflow-annual-developer-survey-2024
 Place it in the project folder.
 
 **4. Run the data pipeline**
