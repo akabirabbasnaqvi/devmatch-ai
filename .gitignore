@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Large data files
+survey_results_public.csv
+devmatch_clean.csv
+
+# Generated model files
+devmatch_knn_model.pkl
+feature_columns.pkl
+misc_mlb.pkl
+platform_mlb.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+.DS_Store
